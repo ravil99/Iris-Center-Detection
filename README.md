@@ -7,3 +7,5 @@
     
     CNN architecture was taken from this paper: https://ieeexplore.ieee.org/abstract/document/8803121
     
+    Code is in the Jupyter Notebook
+    
