@@ -1,4 +1,4 @@
-# Innopolis University. Machine Learning. Ravil Akhmetzhanov.
+# Innopolis University. Machine Learning. Assignment 2. Ravil Akhmetzhanov.
 ## Iris Center Detection
 
 This project was assignment in **Machine Learning** course at Innopolis University.
